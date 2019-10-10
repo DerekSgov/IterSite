@@ -2,7 +2,10 @@ import { Link } from 'gatsby'
 import React from 'react'
 import Helmet from 'react-helmet'
 import { Waypoint } from 'react-waypoint'
-import pic01 from '../assets/images/pic01.jpg'
+import Ray from '../assets/images/ray.jpg'
+import Laura from '../assets/images/Laura.jpg'
+import Margaret from '../assets/images/Margaret.jpg'
+import William from '../assets/images/William.jpg'
 import Header from '../components/Header'
 import Layout from '../components/layout'
 import Nav from '../components/Nav'
@@ -57,12 +60,12 @@ class Index extends React.Component {
             <h3>Officers</h3>
             <ul className="features">
             <li>
-              <span className="image"><img src={''} alt=""/></span>
+              <span className="image"><img src={William} alt=""/></span>
                 <h3>William R. Bowen</h3>
                 <p>President</p>
               </li>
               <li>
-              <span className="image"><img src={''} alt=""/></span>
+              <span className="image"><img src={Margaret} alt=""/></span>
                 <h3>Margaret English-Haskin</h3>
                 <p>Secretary</p>
               </li>
@@ -70,15 +73,15 @@ class Index extends React.Component {
             <h3>Board of Directors</h3>
             <ul className="features">
             <li>
-              <span className="image"><img src={''} alt=""/></span>
+              <span className="image"><img src={William} alt=""/></span>
                 <h3>William R. Bowen</h3>
               </li>
               <li>
-              <span className="image"><img src={''} alt=""/></span>
+              <span className="image"><img src={Laura} alt=""/></span>
                 <h3>Laura Estill</h3>
               </li>
               <li>
-              <span className="image"><img src={''} alt=""/></span>
+              <span className="image"><img src={Ray} alt=""/></span>
                 <h3>Raymond G. Siemens</h3>
               </li>
             </ul>
