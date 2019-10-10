@@ -9,19 +9,15 @@
 .image {
 	border-radius: _size(border-radius);
 	border: 0;
-	display: inline-block;
 	display: block;
 	position: relative;
 
-	
 	img {
 		border-radius: _size(border-radius);
-		display: block;
 		width: 150px;
 		height: 150px;
 		display: inline-block;
 		object-fit: cover;
-		margin: 0;
 	}
 
 		&.left,
