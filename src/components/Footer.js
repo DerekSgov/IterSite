@@ -11,9 +11,7 @@ const Footer = props => (
         <dd>North York, Ontario</dd>
         <dd>Canada, M4A 1Y8</dd>
         <dt>Email</dt>
-        <dd>
-          <dd>itercanada@gmail.com</dd>
-        </dd>
+        <dd>itercanada@gmail.com</dd>
       </dl>
       </section>
   </footer>
