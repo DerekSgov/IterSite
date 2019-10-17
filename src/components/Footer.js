@@ -12,7 +12,7 @@ const Footer = props => (
         <dd>Canada, M4A 1Y8</dd>
         <dt>Email</dt>
         <dd>
-          <a href="https://codebushi.com">information@untitled.tld</a>
+          <dd>itercanada@gmail.com</dd>
         </dd>
       </dl>
       </section>
