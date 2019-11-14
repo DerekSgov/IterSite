@@ -46,8 +46,7 @@ class Index extends React.Component {
                   <h2>Our Purpose</h2>
                 </header>
                 <p>
-                Iter Canada is a not-for-profit corporation dedicated to the achievement of learning in the study and teaching of the Middle Ages and Renaissance (400 to 1700) through the development and distribution of online resources. To this end, Iter Canada is responsible for the programs and initiatives associated with Iter Community and for contributing to Iter Press.
-                </p>
+                Iter Canada facilitates the study and teaching of the Middle Ages and Renaissance (400 to 1700) through the investigation, promotion and use of digital practices in collaborative, community-based environments. We engage individuals, informal groups and organizations within Canada and beyond in order to share best practices and to develop resources. Our initiatives and projects are offered to the public through Iter Community.                </p>
               </div>
             </div>
           </section>
@@ -56,7 +55,6 @@ class Index extends React.Component {
             <header className="major">
               <h2>Who We Are</h2>
             </header>
-            <h3>Officers</h3>
             <ul className="features">
             <li>
               <span className="image"><img src={William} alt=""/></span>
@@ -68,20 +66,15 @@ class Index extends React.Component {
                 <h3>Margaret English-Haskin</h3>
                 <p>Secretary</p>
               </li>
-            </ul>
-            <h3>Board of Directors</h3>
-            <ul className="features">
-            <li>
-              <span className="image"><img src={William} alt=""/></span>
-                <h3>William R. Bowen</h3>
-              </li>
               <li>
               <span className="image"><img src={Laura} alt=""/></span>
                 <h3>Laura Estill</h3>
+                <p>Director</p>
               </li>
               <li>
               <span className="image"><img src={Ray} alt=""/></span>
                 <h3>Raymond G. Siemens</h3>
+                <p>Director</p>
               </li>
             </ul>
           </section>

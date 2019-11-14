@@ -7,9 +7,10 @@ const Footer = props => (
       <h2>Contact Us</h2>
       <dl className="alt">
         <dt>Address</dt>
-        <dd>27 Pinebrook Ave,</dd>
+        <dd>27 Pinebrook Ave.</dd>
         <dd>North York, Ontario</dd>
-        <dd>Canada, M4A 1Y8</dd>
+        <dd>M4A 1Y8</dd>
+        <dd>Canada</dd>
         <dt>Email</dt>
         <dd>itercanada@gmail.com</dd>
       </dl>
