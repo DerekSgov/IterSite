@@ -83,8 +83,7 @@ class Index extends React.Component {
             <header className="major">
               <h2>Projects</h2>
               <p>
-                Please feel free to come take a look at our 
-                current and in development projects!
+                Take a look at a selection of related projects
               </p>
             </header>
             <footer className="major">
