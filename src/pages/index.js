@@ -36,9 +36,9 @@ class Index extends React.Component {
           onEnter={this._handleWaypointEnter}
           onLeave={this._handleWaypointLeave}
         ></Waypoint>
-        <Nav sticky={this.state.stickyNav} />
 
         <div id="main">
+          <Nav sticky={this.state.stickyNav} />
           <section id="intro" className="main special">
             <div className="spotlight">
               <div className="content">
